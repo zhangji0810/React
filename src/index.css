@@ -19,3 +19,8 @@ h2 {
   font-size: 1.5rem;
   color: #2c292b;
 }
+
+p,
+form {
+  margin-top: 1rem;
+}
